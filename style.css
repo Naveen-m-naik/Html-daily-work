@@ -1,0 +1,83 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/network-connection-background-gradient_23-2148879893.jpg);
+    background-size: cover;
+}
+.login
+{
+    height:500px;
+    width:500px;
+    margin:20px auto; 
+    background-image: url(https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg);
+    background-size: cover;
+    border-radius: 20px;
+   
+
+}
+.head
+{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 10px;;
+    padding-bottom: 30px;
+}
+.usernm
+{
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 5px;
+
+}
+.input
+{
+    
+    background-color:rgba(225, 225, 225, 0.708);
+    border:none;
+    border-radius: 10px;
+    text-align: center;
+    height:30px;
+    width:auto;
+}
+.button
+{
+    border:2px grey solid;
+    text-align: center;
+    height: 50px;
+    width:300px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(174, 171, 171);
+    margin:20px; 
+}
+.end
+{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.final
+{
+    border:2px black solid;
+    background-color: rgba(128, 128, 128, 0.659);
+    width:100px;
+    height:25px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+svg{
+    fill:red;
+  
+}
+.google
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:2px black solid;
+    background-color: rgba(128, 128, 128, 0.659);
+    width:100px;
+    height:25px;
+    text-align: center;
+    padding-top: 10px;
+}
